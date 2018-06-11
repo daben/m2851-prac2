@@ -6,7 +6,8 @@ Autor: David Moriano (dmoriano@uoc.edu)
 
 | File | Description |
 | ---- | ----------- |
-| code/Practica.ipynb | Jupyter notebook with the analysis (spanish) |
+| [Practica.pdf](./Practica.pdf) | Report (spanish) |
+| [code/Practica.ipynb](./code/Practica.ipynb) | Jupyter notebook with the analysis (spanish) |
 | input/ | Input data |
 | data/ | Cleaned data |
 | output/ | Kaggle submissions |
